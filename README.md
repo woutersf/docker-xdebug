@@ -18,7 +18,7 @@ See [GitHub Marketplace](https://github.com/marketplace/actions/xdebug-action) f
 
 ```yaml
 - name: Xdebug Action
-  uses: MilesChou/docker-xdebug@master
+  uses: woutersf/docker-xdebug@master
 ```
 
 ## Supported tags and respective `Dockerfile` links
